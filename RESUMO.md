@@ -10,5 +10,5 @@ Repositorio para armazenar resumos sobre git e github do curso Versinamento de c
 
 | Aulas | Resumos |
 |-------|---------|
-| **Repositorio git**| [link] (https://github.com/elidianaandrade/dio-curso-git-github) |
+| **Repositorio git**| [link](https://github.com/elidianaandrade/dio-curso-git-github) |
   
